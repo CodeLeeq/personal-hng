@@ -3,3 +3,53 @@ Figma Link: https://www.figma.com/file/g6x3tZ6Oq0osNZ5Qovc5GQ7p/About-Onayemi-Ba
 Blog Post Link:https://medium.com/@itsmaleeq/what-i-discover-by-practicing-f205b693f2bd
 
 GitHub Repo:https://github.com/CodeLeeq/personal-hng 
+
+CLOUDINARY= https://res.cloudinary.com/itsmaleeq/image/upload/v1554323066/itsmaleeq-2.png
+
+
+"https://twitter.com/itsMaleeq" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/CodeLeeq" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@itsmaleeq"
+
+
+
+Hello Team Leaders.
+I have experience Developing website check some of my work
+(http://www.shop4younow.com.ng = ecommerce
+http://connectmobileng.com/ = Telecom business
+http://elkdigitalsolutions.com.ng/ = Photgraphy
+http://mend.ng/ = Tailoring Firm
+
+)This is just some of my work.
+
+A trial will convince you.
+SKILLS
+PENCIL & PAPER
+ADOBE PHOTOSHOP
+ADOBE FIREWORKS
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+JAVA
+XML
+ANDROID
+KOTLIN
+PRESTASHOP
+WOOCOMMERCE (edited)
+-------------------------------------------
+
+Day One- 29th March 2019
+We were asked to do a simple personal profile design on github, create a blog post and our git account to make sure that we can use git.
+day two- 30th march 2019
+
+Day 3- 31st March 2019
+
+
+Day 4 - 1 april 2019
+
+Day 5- 2 april 2019
+
+Day 6 - 3 April 2019
+Trying to get to stage 2 , it was so ethic for me just because i was busy volunteering for womeninblockchain teaching kids programming for the holiday.
+
